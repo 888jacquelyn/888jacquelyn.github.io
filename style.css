@@ -7,7 +7,7 @@ h1 {
 	color: #b80000;
 	font-family: Verdana;
 	text-align: center;
-	text-shadow: 8px 8px blue;
+	text-shadow: 2px 2px 5px #808080;
 	font-size: 50;
 }
 
@@ -20,7 +20,7 @@ img {
 }
 
 p {
-  color: white;
+  color: GhostWhite;
   text-align: center;
 }
 
