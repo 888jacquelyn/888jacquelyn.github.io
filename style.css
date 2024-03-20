@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+  background-image: url(stars.gif);
 	color: white;
 }
 
@@ -9,6 +9,14 @@ h1 {
 	text-align: center;
 	text-shadow: 2px 2px 5px #808080;
 	font-size: 50;
+}
+
+a:link {
+	color: GhostWhite;
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	background-color: #000000;
+	font-size: xx-large;
 }
 
 img {
